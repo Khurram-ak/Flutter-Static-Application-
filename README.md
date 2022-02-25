@@ -6,7 +6,7 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 Here is the video of Project:
-<video src='C:\Users\Khurram\Documents\Bandicam\flutterApp.mp4' width=180/>
+<video src='C:\Users\Khurram\Documents\Bandicam\flutterApp.mp4' width=280/>
 
 A few resources to get you started if this is your first Flutter project:
 
